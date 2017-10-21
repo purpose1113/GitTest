@@ -1,2 +1,2 @@
-git clone git https://github.com/Xu-Rui/GitTest.git 
+git clone https://github.com/Xu-Rui/GitTest.git 
 
