@@ -12,4 +12,8 @@ git clone https://github.com/Xu-Rui/GitTest.git
 dgsdgsd
 
 >>>>>>> 483518ab64333056be5abc93be2cd2f51d6cd4b0
-
+dfgdjhgjewghejw
+saf
+saf
+as
+f
