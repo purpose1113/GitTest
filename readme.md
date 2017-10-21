@@ -1,19 +1,20 @@
-<<<<<<< HEAD
 git clone git https://github.com/Xu-Rui/GitTest.git
 ËÎÍñÄþ
 Áõ¼ÎÐÀ
 ç«¥é™
-=======
-
-git clone https://github.com/Xu-Rui/GitTest.git 
 å¼ æ‹“
-åˆ˜å˜‰æ¬£
-ç»”ãƒ©æ½¤
+åˆ˜å˜‰æ¬?
+ç»”ãƒ©æ½?
 dgsdgsd
+ÕÅ×¿
 
+<<<<<<< HEAD
 >>>>>>> 483518ab64333056be5abc93be2cd2f51d6cd4b0
 dfgdjhgjewghejw
 saf
 saf
 as
 f
+=======
+odfdsjg
+>>>>>>> 94b51211f4f17f0aa1e8527474ff893afd698043
